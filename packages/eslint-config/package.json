@@ -1,0 +1,12 @@
+{
+  "name": "@shashankkushwah/eslint-config",
+  "version": "0.0.0",
+  "license": "ISC",
+  "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "devDependencies": {
+    "eslint": "^8.22.0"
+  }
+}
